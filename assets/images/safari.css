@@ -1,0 +1,120 @@
+.cards {
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.card1 {
+
+
+    transition: all 1s;
+}
+
+
+.card1:hover {
+    transform: scale(1.15);
+}
+.hover {
+
+
+    transition: all 1s;
+}
+
+
+.hover:hover {
+    transform: scale(1.15);
+}
+
+nav {
+    position: fixed;
+}
+
+.container-fluid {
+    border: 2px rgb(97, 93, 93);
+}
+
+#container {
+    
+    border-color: aliceblue;
+    border-radius: 0.5px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(240, 246, 250);
+    text-align: justify;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+#containers {
+    
+    padding: 5px 20px 5px 20px;
+    margin-top: 10px;
+    border-color: aliceblue;
+    border-radius: 0.5px;
+    margin-right: 10pxpx;
+    margin-bottom: 10px;
+    text-align: justify;
+    
+    background-color: rgb(240, 246, 250);
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.faq {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+
+}
+
+
+.bau {
+    
+    margin-top: 10px;
+    
+    
+}
+
+.detailspoon {
+    
+    border-color: aliceblue;
+    border-radius: 3px;
+    background-color: rgb(240, 246, 250);
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left:10px ;
+   text-align: justify;
+   padding: 10px;
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.moreopt {
+    width: 55vw;
+   
+    float: inline-start;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin:10px 40px 10px 40px;
+    background-color: rgb(209, 222, 231);
+    transition: all 1s;
+
+}
+.moreopt :hover{
+    transform: scale(1.15);
+}
+.questions{
+    width: 35vw;
+    border-color: aliceblue;
+    border-radius: 3px;
+    background-color: rgb(240, 246, 250);
+    margin-top: 10px;
+    margin-right: 45px;
+    margin-bottom: 10px;
+    float: right;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
