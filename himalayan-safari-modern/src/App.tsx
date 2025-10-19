@@ -21,7 +21,7 @@ function App() {
   }, []);
 
   return (
-    <Router>
+    <Router basename="/himalayan-safari">
       <div className="min-h-screen flex flex-col bg-white dark:bg-gray-900 transition-colors duration-300">
         <ScrollToTop />
         <Navbar />
